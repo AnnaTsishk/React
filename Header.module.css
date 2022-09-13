@@ -1,0 +1,12 @@
+
+.header {
+grid-area: h;
+background-color: coral;
+}
+
+.header img {
+width: 50px;
+border-radius: 50%;
+padding: 9px;
+}
+
